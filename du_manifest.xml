@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="sub" revision="n-caf" />
+  <project name="android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="sub" revision="n-caf" />
+  <project name="android_vendor_motorola" path="vendor/motorola" remote="sub" revision="n-caf" />
+  <project name="DirtyUnicorns/android_vendor_qcom_binaries" path="vendor/qcom/binaries" remote="github" revision="n-caf" />
+  <project name="DirtyUnicorns/android_external_bson" path="external/bson" remote="github" revision="n-caf" />
+  <project name="DirtyUnicorns/android_external_connectivity" path="external_connectivity" remote="github" revision="n-caf" />
+  <project name="DirtyUnicorns/android_hardware_qcom_fm" path="hardware/qcom/fm" remote="github" revision="n-caf" />
+  <project name="DirtyUnicorns/android_packages_apps_FMRadio" path="packages/apps/FMRadio" remote="github" revision="n-caf" />
+  <project name="CyanogenMod/android_hardware_qcom_audio" path="hardware/qcom/audio-caf/msm8974" remote="github" revision="cm-14.1-caf-8974" />
+  <project name="CyanogenMod/android_hardware_qcom_display" path="hardware/qcom/display-caf/msm8974" remote="github" revision="cm-14.1-caf-8974" />
+  <project name="CyanogenMod/android_hardware_qcom_media" path="hardware/qcom/media-caf/msm8974" remote="github" revision="cm-14.1-caf-8974" />
+  <project name="CyanogenMod/android_packages_apps_Snap" path="packages/apps/Snap" remote="github" revision="cm-14.1" />
+</manifest>
