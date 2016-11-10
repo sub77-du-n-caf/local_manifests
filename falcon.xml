@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="android_device_motorola_falcon" path="device/motorola/falcon" remote="sub" revision="n-caf" />
+  <project name="android_device_motorola_msm8226-common" path="device/motorola/msm8226-common" remote="sub" revision="n-caf" />
+  <project name="android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="sub" revision="n-caf" />
+  <project name="android_vendor_motorola" path="vendor/motorola" remote="sub" revision="n-caf" />
+</manifest>
+
+
