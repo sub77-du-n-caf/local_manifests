@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="packages_apps_OpenDelta" path="packages/apps/OpenDelta" remote="sub" revision="n-caf" />
+  <project name="OpenDelta_Server" path="opendelta" remote="sub" revision="n-caf" />
+</manifest>
